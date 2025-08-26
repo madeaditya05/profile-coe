@@ -1047,6 +1047,19 @@ p + p{
 /* 1. Aturan untuk #home di Mode Terang (Default) */
 #home {
   background-color: #f3f4f6; /* Warna abu-abu untuk mode terang */
+  background-color: #f3f4f6; /* Warna abu-abu untuk mode terang */
+  /* TAMBAHKAN KODE GRADIENT DI SINI */
+  background-image: radial-gradient(
+      circle at top right,
+      rgba(61, 99, 221, 0.1) 0%,
+      rgba(61, 99, 221, 0.1) 28%,
+      rgba(61, 99, 221, 0.075) 28%,
+      rgba(61, 99, 221, 0.075) 45%,
+      rgba(61, 99, 221, 0.05) 45%,
+      rgba(61, 99, 221, 0.05) 63%,
+      rgba(61, 99, 221, 0.025) 63%,
+      rgba(61, 99, 221, 0.025) 100%
+    );
 }
 
 /* 2. Aturan untuk #home di Mode Gelap */
@@ -2718,4 +2731,39 @@ p + p{
 }
 .dark .slide-content h1 {
   color: var(--color-body-dark-12);
+}
+
+/* =================================================================== */
+/* == PERBAIKAN UNTUK MENU AKTIF SAAT NAVBAR DI POSISI PALING ATAS == */
+/* =================================================================== */
+
+/* =================================================================== */
+/* == PERBAIKAN FINAL UNTUK MENU AKTIF SAAT NAVBAR DI ATAS == */
+/* =================================================================== */
+
+@media (min-width: 1024px) {
+  /* Aturan untuk link active di mode TERANG saat navbar TIDAK sticky */
+  html:not([data-web-theme="dark"]) .ic-navbar:not(.sticky) .ic-page-scroll.active {
+    color: #3d63dd !important; /* Warna biru primary */
+    opacity: 1;
+  }
+
+  /* Aturan untuk link active di mode GELAP saat navbar TIDAK sticky */
+  html[data-web-theme="dark"] .ic-navbar:not(.sticky) .ic-page-scroll.active {
+    color: #82a3ff !important; /* Warna biru lebih terang agar kontras di tema gelap */
+    opacity: 1;
+  }
+}
+
+/*
+=====================================================
+ CSS untuk memberi warna latar belakang selang-seling manual
+=====================================================
+*/
+.bg-section-odd {
+  background-color: #00005506; /* Warna latar untuk mode terang */
+}
+
+[data-web-theme="dark"] .bg-section-odd {
+  background-color: #adc5f30f; /* Warna latar untuk mode gelap */
 }
