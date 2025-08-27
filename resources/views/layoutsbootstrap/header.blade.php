@@ -73,25 +73,23 @@
   </head>
   <body>
     <!-- Page loading -->
-    <div
-      class="page-loading fixed top-0 bottom-0 left-0 right-0 z-[99999] flex items-center justify-center bg-primary-light-1 dark:bg-primary-dark-1 opacity-100 visible pointer-events-auto"
-      role="status"
-      aria-live="polite"
-      aria-atomic="true"
-      aria-label="Loading..."
-    >
-      <div class="grid-loader">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
+    <div id="splash-screen" class="fixed top-0 bottom-0 left-0 right-0 z-[99999] flex flex-col items-center justify-center bg-primary-light-1 dark:bg-primary-dark-1 opacity-100 visible pointer-events-auto">
+  <div class="logo-torsi-ev">
+    <svg class="logo-t" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <g class="logo-t__group">
+    <path class="logo-t__wing-left" d="M100 60 Q60 30 0 30 L0 0 Q100 0 100 40 Z" fill="#ED1C24"/>
+    <path class="logo-t__wing-right" d="M100 60 Q140 30 200 30 L200 0 Q100 0 100 40 Z" fill="#A40E12"/>
+    <path class="logo-t__stem" d="M85 60 Q100 80 115 60 L115 180 H85 Z" fill="#666666"/>
+  </g>
+</svg>
+
+
+    <div class="text-torsi-ev">
+      <span class="text-orsi">Torsi</span>
+      <span class="text-ev">EV</span>
     </div>
+  </div>
+</div>
 
     <!-- Navbar -->
     <header
