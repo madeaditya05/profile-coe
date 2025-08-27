@@ -1,0 +1,11 @@
+[33m938bbce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: pull: Fast-forward
+[33md91ec6d[m[33m ([m[1;31morigin/perbaikan[m[33m, [m[1;32mperbaikan[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33md91ec6d[m[33m ([m[1;31morigin/perbaikan[m[33m, [m[1;32mperbaikan[m[33m)[m HEAD@{2}: reset: moving to origin/perbaikan
+[33mddb60e3[m HEAD@{3}: checkout: moving from perbaikan to main
+[33md91ec6d[m[33m ([m[1;31morigin/perbaikan[m[33m, [m[1;32mperbaikan[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33md91ec6d[m[33m ([m[1;31morigin/perbaikan[m[33m, [m[1;32mperbaikan[m[33m)[m HEAD@{5}: commit: perbaikan header
+[33m461b2fd[m[33m ([m[1;31morigin/awal[m[33m, [m[1;32mawal[m[33m)[m HEAD@{6}: checkout: moving from awal to perbaikan
+[33m461b2fd[m[33m ([m[1;31morigin/awal[m[33m, [m[1;32mawal[m[33m)[m HEAD@{7}: commit: awal perubahan
+[33mddb60e3[m HEAD@{8}: checkout: moving from main to awal
+[33mddb60e3[m HEAD@{9}: Branch: renamed refs/heads/main to refs/heads/main
+[33mddb60e3[m HEAD@{11}: commit (initial): first commit

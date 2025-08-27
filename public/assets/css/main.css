@@ -829,91 +829,174 @@ p + p{
   opacity: 0;
 }
 
-.grid-loader,
-  .grid-loader div{
-  box-sizing: border-box;
+/* ========================================================= */
+/* ==   SPLASH SCREEN ANIMATION: TORSI EV (FINAL)         == */
+/* ========================================================= */
+
+#splash-screen {
+  transition: opacity 1s ease-out, visibility 1s ease-out;
 }
 
-.grid-loader{
-  position: relative;
-  display: inline-block;
-  height: 80px;
-  width: 80px;
+.logo-torsi-ev {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px; /* Sedikit jarak tambahan */
 }
 
-.grid-loader div{
-  position: absolute;
-  height: 1rem;
-  width: 1rem;
-  border-radius: 9999px;
-  --tw-bg-opacity: 1;
-  background-color: rgb(61 99 221 / var(--tw-bg-opacity));
-  animation: grid-loader 1.2s linear infinite;
+.logo-t {
+  width: 150px;
+  height: auto;
+  overflow: visible;
 }
 
-.grid-loader div:nth-child(1){
-  top: 0.5rem;
-  left: 0.5rem;
-  animation-delay: 0s;
+.logo-t__group {
+  transform-origin: center;
 }
 
-.grid-loader div:nth-child(2){
-  top: 0.5rem;
-  left: 2rem;
-  animation-delay: -0.4s;
+/* Batang Abu-abu */
+.logo-t__stem {
+  fill: #666666;
+  opacity: 0;
+  animation: stem-appear 2.5s ease-out forwards;
+  animation-delay: 1s;
 }
 
-.grid-loader div:nth-child(3){
-  top: 0.5rem;
-  left: 3.5rem;
-  animation-delay: -0.8s;
+/* Sayap Kiri */
+.logo-t__wing-left {
+  fill: #ED1C24;
+  transform-origin: top right;
+  animation: wing-swoop-left 2s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
 }
 
-.grid-loader div:nth-child(4){
-  top: 2rem;
-  left: 0.5rem;
-  animation-delay: -0.4s;
+/* Sayap Kanan */
+.logo-t__wing-right {
+  fill: #A40E12;
+  transform-origin: top left;
+  animation: wing-swoop-right 2s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
 }
 
-.grid-loader div:nth-child(5){
-  top: 2rem;
-  left: 2rem;
-  animation-delay: -0.8s;
+/* Teks "Torsi EV" */
+.text-torsi-ev {
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #2d3748;
+  opacity: 0;
+  
+  /* --- PERUBAHAN DI SINI --- */
+  /* Durasi diperlambat agar lebih terasa */
+  animation: text-fade-in 1.5s ease-out 2.5s forwards;
 }
 
-.grid-loader div:nth-child(6){
-  top: 2rem;
-  left: 3.5rem;
-  animation-delay: -1.2s;
+/* Aturan warna untuk mode gelap */
+[data-web-theme="dark"] .logo-t__stem {
+  fill: #a0aec0;
+}
+/* Tidak perlu .logo-t__wings karena sudah diatur per sayap */
+[data-web-theme="dark"] .text-torsi-ev,
+[data-web-theme="dark"] .text-orsi {
+  color: #cbd5e0;
 }
 
-.grid-loader div:nth-child(7){
-  top: 3.5rem;
-  left: 0.5rem;
-  animation-delay: -0.8s;
+.text-ev {
+  color: #e53e3e;
+  margin-left: 5px;
 }
 
-.grid-loader div:nth-child(8){
-  top: 3.5rem;
-  left: 2rem;
-  animation-delay: -1.2s;
+
+/* -- KEYFRAMES ANIMASI -- */
+
+@keyframes stem-appear {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-.grid-loader div:nth-child(9){
-  top: 3.5rem;
-  left: 3.5rem;
-  animation-delay: -1.6s;
-}
-
-@keyframes grid-loader {
-  0%,
-    100%{
+@keyframes wing-swoop-left {
+  from {
+    transform: translateX(-150%) rotate(-45deg) scale(0.5);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0) rotate(0deg) scale(1);
     opacity: 1;
   }
+}
 
-  50%{
-    opacity: 0.5;
+@keyframes wing-swoop-right {
+  from {
+    transform: translateX(150%) rotate(45deg) scale(0.5);
+    opacity: 0;
   }
+  to {
+    transform: translateX(0) rotate(0deg) scale(1);
+    opacity: 1;
+  }
+}
+
+/* --- PERUBAHAN DI SINI --- */
+@keyframes text-fade-in {
+  0% {
+    opacity: 0;
+    /* Gerakan dimulai dari 40px di bawah */
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* Aturan warna untuk mode gelap */
+[data-web-theme="dark"] .logo-t__stem {
+  fill: #a0aec0;
+}
+[data-web-theme="dark"] .logo-t__wings {
+  fill: #f56565;
+}
+
+/* Teks "Torsi EV" */
+.text-torsi-ev {
+  display: flex;
+  font-family: 'Poppins', sans-serif; /* Ganti dengan font yang Anda inginkan */
+  font-size: 2.5em; /* Ukuran teks */
+  font-weight: 700;
+  color: #2d3748; /* Warna teks gelap */
+  opacity: 0; /* Awalnya tersembunyi */
+  animation: text-fade-in 1s ease-out 2.5s forwards; /* Muncul setelah logo terbentuk */
+}
+
+[data-web-theme="dark"] .text-torsi-ev {
+  color: #cbd5e0; /* Warna teks terang di mode gelap */
+}
+
+.text-orsi {
+  color: #2d3748; /* Warna teks "orsi" */
+}
+
+.text-ev {
+  color: #e53e3e; /* Warna teks "EV" merah */
+  margin-left: 5px; /* Jarak antara "orsi" dan "EV" */
+}
+
+[data-web-theme="dark"] .text-orsi {
+  color: #cbd5e0;
+}
+
+
+.logo-torsi-ev {
+  display: flex;
+  flex-direction: column; /* Menumpuk logo dan teks */
+  align-items: center;
+  gap: 10px; /* Jarak antara logo dan teks */
 }
 
 .ic-navbar{
@@ -2766,4 +2849,17 @@ p + p{
 
 [data-web-theme="dark"] .bg-section-odd {
   background-color: #adc5f30f; /* Warna latar untuk mode gelap */
+}
+
+/* Custom CSS for 5-column layout on large screens */
+@media (min-width: 1024px) { /* 'lg' breakpoint, sesuaikan jika perlu */
+  .lg-grid-cols-5 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem; /* Atur jarak antar card */
+  }
+  
+  .lg-grid-cols-5 > * {
+    width: 100% !important; /* Memastikan setiap item mengisi grid cell */
+  }
 }
