@@ -2863,3 +2863,16 @@ p + p{
     width: 100% !important; /* Memastikan setiap item mengisi grid cell */
   }
 }
+
+/* ================================= */
+/* == CUSTOM CSS UNTUK JARAK TEAM == */
+/* ================================= */
+.team-grid-container {
+  margin-top: 3rem; /* Memberi jarak atas sebesar 96px */
+}
+
+@media (min-width: 1024px) {
+  .team-grid-container {
+    margin-top: 6rem; /* Jaraknya kita perbesar untuk layar desktop */
+  }
+}

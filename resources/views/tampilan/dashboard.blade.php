@@ -25,18 +25,10 @@
                 >
                   <li>
                     <a
-                      href="javascript:void(0)"
-                      class="inline-flex items-center justify-center rounded-md bg-primary-color text-primary px-5 py-3 text-center text-base font-medium shadow-md hover:bg-primary-light-5 md:px-7 md:py-[14px]"
+                      href="javascript:boid(0)"
+                      class="video-popup flex items-center gap-4 rounded-md bg-gray-200 text-gray-800 dark:bg-primary-color/[0.15] dark:text-primary-color hover:bg-primary-color hover:text-primary md:px-7 md:py-[14px]"
                       role="button"
-                      >Get Started</a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="javascript:void(0)"
-                      class="inline-flex items-center justify-center rounded-md bg-primary-color text-primary px-5 py-3 text-center text-base font-medium shadow-md hover:bg-primary-light-5 md:px-7 md:py-[14px]"
-                      role="button"
-                       > Watch Intro</a
+                      ><i class="lni lni-play text-lg/none"></i> Watch Intro</a
                     >
                   </li>
                 </ul>
@@ -531,8 +523,7 @@
 </div>
 
       <!-- Team section -->
-<section class="bg-section-odd py-20 lg:py-24">
-  <div class="container">
+  <div class="container team-grid-container">
     <div class="scroll-revealed text-center max-w-[550px] mx-auto mb-12">
       <h6 class="mb-2 block text-lg font-semibold text-primary">Team</h6>
       <h2 class="mb-6">Our Creative Team</h2>
@@ -2237,6 +2228,7 @@
           </div>
         </div>
       </section>
+      
       <!-- Contact section -->
       <section id="contact" class="section-area">
         <div class="container">
@@ -2384,7 +2376,7 @@
       <!-- Map section -->
       <section id="map" class="w-full h-[500px] overflow-hidden -mt-[12rem]">
         <object
-          data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1991.0094028113572!2d98.67188956289421!3d3.583155328672593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x303131cc1c3eb2fd%3A0x23d431c8a6908262!2sMedan%2C%20Kota%20Medan%2C%20Sumatera%20Utara!5e0!3m2!1sid!2sid!4v1723787393945!5m2!1sid!2sid"
+          data="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1980.1517132307579!2d107.63306119798187!3d-6.973483431970767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1756370021892!5m2!1sid!2sid"
           class="border-0 w-full h-full"
         ></object>
       </section>
@@ -2422,7 +2414,7 @@
       // GLightBox
       GLightbox({
         selector: ".video-popup",
-        href: "https://youtu.be/KDzyxS16Oqo?si=0T_gDLTYpDogOxqj",
+        href: "https://youtu.be/KDzyxS16Oqo?si=ZL2o3UB5Uohf3oL_",
         type: "video",
         source: "youtube",
         width: 900,
@@ -2496,6 +2488,8 @@ const heroSwiper = new Swiper(".hero-slider", {
       }
     }
   });
+
+  
 
       // Testimonial
       const testimonialSwiper = new Swiper(".testimonial-carousel", {
