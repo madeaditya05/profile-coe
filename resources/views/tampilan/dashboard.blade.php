@@ -546,13 +546,13 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-1.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/13.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Fransisco Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Fransisco Gilbert Pintu Batu</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engineer</p>
             <div class="flex items-center justify-center gap-5">
               <a 
                 href="mailto:gibetyo@gmail.com" 
@@ -579,13 +579,13 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-2.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/1.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
             <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12"> Karen Natalia Naibaho</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Akuntansi</p>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Ga ada kerjaan</p>
             <div class="flex items-center justify-center gap-5">
               <a 
                 href="mailto:natalikaren0312@gmail.com" 
@@ -599,7 +599,7 @@
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/Karen Naibaho" 
+                href="https://www.linkedin.com/in/karen-naibaho" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -612,27 +612,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-3.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/2.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Made Aditya Warmadewa</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:madeaditya202@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/madetya.w" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/made-aditya-warmadewa-6347b0361" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -645,27 +645,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-1.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/3.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Vinsesius Boido Simarmata</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:vinsensiusboido@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/vnsnsius__"
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/vinsensius-boido-simarmata-4b26082a2" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -678,27 +678,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-2.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/4.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Muhammad Fery Salim</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engineer</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:nihfery@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/nihfery_" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -711,27 +711,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-3.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/5.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Allif Ardian Subagia</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">ggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:ardianallif3@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/ardian.allif" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -744,27 +744,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-1.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/6.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Rangga Ariansyah</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">ggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto: " 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/ " 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/ " 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -777,27 +777,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-2.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/7.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Saddam Nafriyaldy</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:saddamnafriyaldy@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/sddm_n" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -810,27 +810,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-3.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/12.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Muhammad Azmi</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">ggggggggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:muhammadazmi939@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/mhdazmi_xd" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/muhammad-azmi-7b8741276" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -843,27 +843,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-1.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/9.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Rafi Nur Fathullah</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggggggggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:rnurfathullah@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/rnurf_" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/rafi-nur-fathullah-a54a04361" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -876,27 +876,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-2.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/10.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Ahmad Yusuf Al Farabi</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:ahmadyusufalfarabi852@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/yaflzz_" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/ahmad-yusuf-al-farabi-17475633a" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -909,27 +909,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-3.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/11.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Danira Ariani Ningtyas</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">ggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:ariani.ixk@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/dnraarn26" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/danira-ariani-95a2ba381" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -942,27 +942,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-1.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/8.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Muhammad Rafi Ramadhan</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:muhammadraffiramadhan29@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/raffirmdhn29" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -975,27 +975,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-2.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/14.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Keisya Lavinia Aprilian</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">gggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:keisyalavinia.a@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/keisyalaviniaa" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/Keisya Lavina Aprilia" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
@@ -1008,27 +1008,27 @@
       <div class="scroll-revealed col-12 sm:col-6 md:col-4">
         <figure class="group rounded-xl bg-body-light-1 dark:bg-body-dark-12/10 px-5 pb-10 pt-12 shadow-card-2 hover:shadow-lg hover:-translate-y-1">
           <div class="relative z-10 mx-auto mb-5 h-[120px] w-[120px]">
-            <img src="./assets/img/avatar/avatar-3.jpg" alt="Team picture" class="h-full w-full rounded-full object-cover" />
+            <img src="./assets/img/avatar/15.png" alt="Team picture" class="h-full w-full rounded-full object-cover" />
             <span class="absolute bottom-0 left-0 -z-10 h-10 w-10 rounded-full bg-red-500 opacity-0 group-hover:opacity-100"></span>
             <span class="absolute top-0 right-0 -z-10 h-10 w-10 rounded-full bg-blue-500 opacity-0 group-hover:opacity-100"></span>
           </div>
           <figcaption class="text-center block">
-            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Gilbert</h4>
-            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">Blockchain Engg</p>
+            <h4 class="mb-1 text-lg font-semibold text-body-light-12 dark:text-body-dark-12">Aditya Dwi Ramahdani</h4>
+            <p class="mb-5 text-sm text-body-light-11 dark:text-body-dark-11">ggggg</p>
             <div class="flex items-center justify-center gap-5">
               <a 
-                href="mailto:gibetyo@gmail.com" 
+                href="mailto:adityaa.301004@gmail.com" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-envelope"></i>
               </a>
               <a 
-                href="https://www.instagram.com/gibelett" 
+                href="https://www.instagram.com/adtyaaramadani" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-instagram-original"></i>
               </a>
               <a 
-                href="https://www.linkedin.com/in/gibetyo" 
+                href="https://www.linkedin.com/in/" 
                 target="_blank" 
                 class="text-body-light-10 dark:text-body-dark-10 hover:text-primary">
                   <i class="lni lni-linkedin-original"></i>
